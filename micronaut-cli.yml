@@ -1,0 +1,6 @@
+applicationType: cli
+defaultPackage: stockclient
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [app-name, gradle, junit, kotlin, logback, picocli, picocli-junit, picocli-kotlin-application, readme, shade, yaml]
